@@ -2,7 +2,7 @@
 
 title: 2020 OWASP LATAM Tour
 layout: col-sidebar
-tags: LATAM Tour, mexico
+tags: mexico
 pitch: The OWASP LATAM Tour is....
 
 ---
