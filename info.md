@@ -1,3 +1,5 @@
 ### List of Participating Chapters
 
-* Mexico (28-30 de mayo)
+* Patagonia (24 de abril)
+* Guatemala (16 de mayo)
+* México (28-30 de mayo)
