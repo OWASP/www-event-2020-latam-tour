@@ -12,4 +12,4 @@ pitch: The OWASP LATAM Tour is....
 ## Fechas del tour
 * Patagonia (24 de abril)
 * Guatemala (16 de mayo)
-* México (28-30 de mayo)
+* México (Fechas por anunciar por COVID-19)
